@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Antoine, I'm a student at the UPSSITECH (Toulouse, FR)
+- 👀 Interested in aviation, robotics, and human-machine dialog
+- 🌱 Currently learning Robotic and Interactive Systems (SRI)
+- 🛩️ Private pilot and glider pilot 
+- 🕹️ Turning an old Reims Cessna Cardinal airframe into a flight simulator on weekends 😃
+- 📫 How to reach me : antoine.paulus@univ-tlse3.fr
