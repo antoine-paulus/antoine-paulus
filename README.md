@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Antoine, I'm a student at the UPSSITECH (Toulouse, FR)
+- 👋 Hi, I’m Antoine, I'm a student at UPSSITECH (Toulouse, FR)
 - 👀 Interested in aviation, robotics, and human-machine dialog
 - 🌱 Currently learning Robotic and Interactive Systems (SRI)
 - 🛩️ Private pilot and glider pilot 
